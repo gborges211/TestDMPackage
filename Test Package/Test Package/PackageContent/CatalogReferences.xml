@@ -1,0 +1,34 @@
+<CatalogReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.skyline.be/catalogReferences">
+<!--
+	<CatalogReference id="guid">
+		<Name>Example Catalog Item (Specific Version)</Name>
+		<Selection>
+			<Specific>1.0.0.1</Specific>
+		</Selection>
+	</CatalogReference>
+	<CatalogReference id="guid">
+		<Name>Example Catalog Item (Range)</Name>
+		<Selection>
+			<Range>1.0.0</Range>
+		</Selection>
+	</CatalogReference>
+	<CatalogReference id="guid">
+		<Name>Example Catalog Item (Range - Prerelease)</Name>
+		<Selection>
+			<Range allowPrerelease="true">1.0.0</Range>
+		</Selection>
+	</CatalogReference>
+-->
+	<CatalogReference id="4abcf220-c001-4ffd-bab8-559dee47088f">
+		<Name>Microsoft Platform</Name>
+		<Selection>
+			<Range>6.0.0</Range>
+		</Selection>
+	</CatalogReference>
+	<CatalogReference id="cdd05fcb-0ded-42db-b75b-ea78199d91cd">
+		<Name>Microsoft Platform</Name>
+		<Selection>
+			<Range>1.0.0</Range>
+		</Selection>
+	</CatalogReference>
+</CatalogReferences>
